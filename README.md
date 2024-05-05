@@ -1,3 +1,3 @@
 # Clothing-clone
 This is clothing-clone.
-using HTNL5,CSS3,JAVSCRIPT.
+using HTML5,CSS3,JAVSCRIPT.
